@@ -55,14 +55,6 @@ This project demonstrates comprehensive security hardening of an Ubuntu Linux sy
 ![Connection Validation](screenshots/connection-validation-test.png)
 *Successful validation of SSH access and ICMP blocking*
 
-### 6. System Hardening Verification
-- Comprehensive check of all implemented security measures
-- Verified persistence of configurations across reboots
-- Confirmed system stability post-hardening
-
-![System Status](screenshots/system-hardening-status.png)
-*Final system status showing all security measures active*
-
 ---
 
 ## Observations and Challenges
